@@ -1,5 +1,5 @@
-$site-color: #001f5f;
-$trim-color: rgb(131,144,172);
-$chrome-color: rgb(232,234,236);
+$site-color: rgb(0%, 12.5%, 37.5%);
+$trim-color: scale-saturation(scale-lightness($site-color, 50), -80);
+$chrome-color: scale-saturation(scale-lightness($site-color, 90), -90);
+$content-background-color: scale-saturation(scale-lightness($site-color, 98), -90);
 $header-text-color: white;
-$content-background-color: white;
