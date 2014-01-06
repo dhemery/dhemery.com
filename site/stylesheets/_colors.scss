@@ -1,5 +1,1 @@
 $site-color: rgb(0%, 12.5%, 37.5%);
-$trim-color: scale-saturation(scale-lightness($site-color, 50), -80);
-$chrome-color: scale-saturation(scale-lightness($site-color, 90), -90);
-$content-background-color: scale-saturation(scale-lightness($site-color, 98), -90);
-$header-text-color: white;
