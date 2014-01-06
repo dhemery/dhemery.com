@@ -1,0 +1,8 @@
+/.bundle
+/.sass-cache
+/build
+/data
+/nginx
+/source
+/config.rb
+
