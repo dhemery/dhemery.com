@@ -1,9 +1,2 @@
-$builder = {
-    root: 'diddleman',
-    modules: {
-        domain: 'dhe.domain',
-        site: 'site'
-    }
-}
-
-import File.join('diddleman', 'Rakefile')
+# Delegate to diddleman's Rakefile
+load File.join('diddleman', 'Rakefile')
