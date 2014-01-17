@@ -1,4 +1,4 @@
-set :layout, 'article'
+$middleman.set :layout, 'article'
 
-puts "Loading site middleman config"
-activate :directory_indexes
+$middleman.activate :directory_indexes
+
