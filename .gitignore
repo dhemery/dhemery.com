@@ -1,3 +1,5 @@
 /.bundle/
 /.sass-cache/
-/build/
+/_site/
+.jekyll-metadata
+.idea/workspace.xml
