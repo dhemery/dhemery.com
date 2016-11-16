@@ -12,9 +12,11 @@
     <title>{{ site.data.domain.title }} | {{ page.title }}</title>
   </head>
   <body>
-    {% include page/banner.html %}
+    {% include page/header.html %}
     {% include page/navbar.html %}
-    {{ content }}
+    <main>
+      {{ content }}
+    </main>
     {% include page/footer.html %}
   </body>
 </html>

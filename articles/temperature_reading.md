@@ -1,6 +1,6 @@
 ---
 title: Temperature Reading
----
+...
 
 **by Dale H. Emery and Judy Bamberger**
 

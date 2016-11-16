@@ -1,8 +1,8 @@
 ---
 title: About
----
+...
 
-# My Mission
+### My Mission
 My personal mission
 is to help people create value, joy, and meaning in their work.
 I especially enjoy helping people
@@ -12,7 +12,7 @@ To put that mission into action,
 I offer consulting, facilitation, and training
 to inspire software people to become inspiring leaders.
 
-# My Consulting Approach
+### My Consulting Approach
 My goal is to help my clients
 achieve immediate benefits
 and build their own skills for future projects.
@@ -48,7 +48,7 @@ and acting on our answers.
     you and your team gain the skills, confidence, and motivation
     to continue making improvements.
 
-# My Background
+### My Background
 
 I have worked in the software industry since 1980,
 as a developer, manager, process steward, and consultant.

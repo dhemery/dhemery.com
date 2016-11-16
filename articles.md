@@ -1,6 +1,6 @@
 ---
 title: Articles
----
+...
 
 **Managing Yourself Through Change**
 [[HTML](/articles/managing_yourself_through_change)]

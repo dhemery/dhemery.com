@@ -1,7 +1,7 @@
 ---
 title: Contact
----
+...
 
-**Telephone: 1-916-538-3253**
+**Telephone: 1-916-539-1455**
 
 **Email: dale@dhemery.com**

@@ -1,6 +1,6 @@
 ---
 title: 'Readings on Resistance'
----
+...
 
 Only one of these books is strictly about resistance,
 but don't let that stop you from reading the others.

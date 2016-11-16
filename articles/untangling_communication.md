@@ -1,6 +1,6 @@
 ---
 title: Untangling Communication
----
+...
 
   > Originally published in _STQE_
     (now called

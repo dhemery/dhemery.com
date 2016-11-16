@@ -1,6 +1,6 @@
 ---
 title: 'Of Status and Stakeholders'
----
+...
 
 **By [Elisabeth Hendrickson](http://testobsessed.com) and Dale Emery**
 

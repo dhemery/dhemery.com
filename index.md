@@ -1,7 +1,6 @@
 ---
-title: Dale H. Emery
-layout: page
----
+title: Home
+...
 
 **Leadership is the art of influencing people to serve shared purposes.
 Leadership inspires people to create shared value.**
@@ -50,7 +49,7 @@ those three key questions and act on the answers,
 the more effectively you will lead,
 and the more value you will create.**
 
-# For More Information
+### For More Information
 For more information about how I help software people,
 read about my [consulting](/consulting) services.
 

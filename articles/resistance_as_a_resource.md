@@ -1,6 +1,6 @@
 ---
 title: Resistance as a Resource
----
+...
 
   > Originally published in
     _[Cutter IT Journal](http://www.cutter.com/itjournal/)_

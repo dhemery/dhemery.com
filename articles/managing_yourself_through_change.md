@@ -1,6 +1,6 @@
 ---
 title: 'Managing Yourself Through Change'
----
+...
 
 # Introduction
 
