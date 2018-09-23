@@ -2,5 +2,5 @@ dhemery.com
 ===========
 
 Source code for
-Dale's business web site:
+Dale's professional web site:
 _[dhemery.com](http://dhemery.com/)_.

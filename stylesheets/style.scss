@@ -1,5 +1,7 @@
 ---
-...
+---
+@import 'layout';
+
 $leading: 1.5;
 $inter-paragraph-space: $leading * 1rem;
 
@@ -38,6 +40,8 @@ a {
 blockquote {
   border: 1px solid $medium;
   background-color: $light;
+  margin: $inter-paragraph-space auto;
+  padding: 0 1rem;
   p, em em { font-style: italic; }
   em, em em em { font-style: normal; }
 }
@@ -48,6 +52,13 @@ body {
   font-size: $text-size;
 }
 
+dl.articles {
+  dt {
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-top: 1rem;
+  }
+}
 em, em em em { font-style: italic; }
 em em { font-style: normal; }
 
@@ -72,8 +83,9 @@ p, ul, ol, blockquote { padding: 0; }
 ol, ul { list-style: none; }
 li { margin: 0; }
 
-header {
-  margin: $inter-paragraph-space 0;
+[role='article'] + [role='article'] { margin-top: 4rem; }
+
+[role='banner'] {
   background-color: $dark;
   padding: .5em;
   h1, h2 {
@@ -82,20 +94,23 @@ header {
   }
 }
 
-header, footer {
+[role='contentinfo'] {
   margin-top: 1em;
 }
 
-nav {
-  li + li::before { content: ' | '; }
+[role='heading'] {
+  margin: $inter-paragraph-space 0;
+}
+
+[role='menubar'] li + li::before { content: ' | '; }
+
+[role='navigation'] {
   color: $dark;
   [role='heading'] { font-weight: bold; }
 }
 
-nav
-
 .body {
-  p, ul, ol, blockquote {
+  p, ul, ol {
     margin: $inter-paragraph-space auto;
     padding: 0;
   }
@@ -136,6 +151,15 @@ nav
     display: inline;
     margin-left: 0;
   }
+}
+
+.post-details {
+  font-size: $detail-text-size;
+  li + li::before { content: ', '; }
+}
+
+.tagged-posts li {
+  margin: $inter-paragraph-space 0;
 }
 
 .title { font-variant: small-caps; }

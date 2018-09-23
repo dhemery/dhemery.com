@@ -1,0 +1,17 @@
+$body-width: 50rem;
+
+$padding: 2rem;
+$padding-percent: $padding / $body-width * 100%;
+
+[role='document'] {
+  max-width: $body-width;
+  margin: 0 auto;
+}
+
+[role='main'] {
+  float: left;
+  width: 100 - 2 * $padding-percent;
+  margin: 0 $padding-percent;
+}
+
+[role='contentinfo'] { clear: both; }
