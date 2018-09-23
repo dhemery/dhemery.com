@@ -8,7 +8,7 @@ title: Articles
 
   > Are you experiencing or anticipating stressful changes?
     In this article,
-    I describe ways to understand and nagivate change more successfully.
+    I describe ways to understand and navigate change more successfully.
 
 **Questions to Explore Problems**
 [[epub](/epub/questions_to_explore_problems.epub)]
