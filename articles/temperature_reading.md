@@ -1,8 +1,7 @@
 ---
 title: Temperature Reading
+authors: Dale H. Emery and Judy Bamberger
 ...
-
-**by Dale H. Emery and Judy Bamberger**
 
 # Purpose
 

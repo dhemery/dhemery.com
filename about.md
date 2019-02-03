@@ -4,7 +4,10 @@ layout: page
 permalink: /:path/:basename/
 ...
 
-### My Mission
+<p></p>
+
+# My Mission
+
 My personal mission
 is to help people create value, joy, and meaning in their work.
 I especially enjoy helping people

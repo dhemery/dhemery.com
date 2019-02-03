@@ -1,5 +1,5 @@
 ---
-title: 'Readings on Resistance'
+title: Readings on Resistance
 ...
 
 Only one of these books is strictly about resistance,
@@ -21,13 +21,13 @@ ISBN: 1-57675-172-4.**
 If the title alone isn't enough to entice you,
 here is a quotation from the preface.
 
-  > You work with [...] people,
-    searching for opportunities to pursue
-    what you believe to be important
-    to the organization and yourself.
-    You often have great clarity
-    about what these 'other people' ought to do
-    and are baffled about how to get them to do it.
+> You work with [...] people,
+  searching for opportunities to pursue
+  what you believe to be important
+  to the organization and yourself.
+  You often have great clarity
+  about what these 'other people' ought to do
+  and are baffled about how to get them to do it.
 
 If that sounds like you, this book will give you lots of good advice you can put to use immediately.   
 

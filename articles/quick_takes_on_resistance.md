@@ -1,5 +1,5 @@
 ---
-title: 'Quick Takes on Resistance'
+title: Quick Takes on Resistance
 ...
 
 # Chancing and Staying the Same

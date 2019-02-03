@@ -2,23 +2,26 @@
 ---
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta viewport='width=device-width' />
-    <meta viewport='initial-scale=1' />
-    <meta viewport='user-scalable=yes' />
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes"/>
 
-    <link href="/stylesheets/style.css" media="all" rel="stylesheet" type="text/css" />
-    <link href="/favicon.ico" rel="icon" />
+  <link href="/stylesheets/style.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="/favicon.ico" rel="icon"/>
 
-    <title>{{ site.data.domain.title }} | {{ page.title }}</title>
-  </head>
-  <body role='document'>
-    {% include page/banner.html %}
-    {% include page/navbar.html %}
-    <div role='main'>
-      {{ content }}
-    </div>
-    {% include page/footer.html %}
-  </body>
+  <title>{{ site.data.domain.title }} | {{ page.title }}</title>
+</head>
+<body role='document'>
+
+{% include page/banner.html %}
+
+{% include page/navbar.html %}
+
+<div role='main' class="body">
+  {{ content }}
+</div>
+
+{% include page/footer.html %}
+
+</body>
 </html>

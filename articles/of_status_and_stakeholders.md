@@ -1,12 +1,11 @@
 ---
-title: 'Of Status and Stakeholders'
+title: Of Status and Stakeholders
+authors: Elisabeth Hendrickson and Dale H. Emery
 ...
 
-**By [Elisabeth Hendrickson](http://testobsessed.com) and Dale Emery**
-
-  > Note: This article appeared in a slightly different form on the
-    [Software Test and Performance Collaborative](http://stpcollaborative.com)
-    website.
+> Note: This article appeared in a slightly different form on the
+  [Software Test and Performance Collaborative](http://stpcollaborative.com)
+  website.
 
 We were in the middle of the WordCount simulation
 in the Introduction to Agile Testing class,

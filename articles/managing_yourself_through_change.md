@@ -1,5 +1,5 @@
 ---
-title: 'Managing Yourself Through Change'
+title: Managing Yourself Through Change
 ...
 
 # Introduction

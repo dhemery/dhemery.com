@@ -6,3 +6,7 @@ defaults:
       path: ""
     values:
       layout: "page"
+  - scope:
+      path: "articles"
+    values:
+      layout: "article"

@@ -2,10 +2,10 @@
 title: Untangling Communication
 ...
 
-  > Originally published in _STQE_
-    (now called
-    [Better Software Magazine](http://www.stickyminds.com/better-software-magazine))
-    Vol. 3 No. 4, July/August 2001.
+> Originally published in _STQE_
+  (now called
+  [Better Software Magazine](http://www.stickyminds.com/better-software-magazine))
+  Vol. 3 No. 4, July/August 2001.
 
 Do you ever wonder why communication sometimes gets so tangled?
 When I think about what it takes to move a thought from one mind to another,

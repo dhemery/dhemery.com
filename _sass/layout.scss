@@ -9,7 +9,6 @@ $padding-percent: $padding / $body-width * 100%;
 }
 
 [role='main'] {
-  float: left;
   width: 100 - 2 * $padding-percent;
   margin: 0 $padding-percent;
 }
