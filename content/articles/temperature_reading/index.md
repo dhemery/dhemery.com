@@ -5,11 +5,11 @@ authors: Dale H. Emery and Judy Bamberger
 
 > By **[Dale H. Emery](/)** and **Judy Bamberger.**
 
-# Purpose
+## Purpose
 
 Temperature Reading is an activity by which a group can receive and respond to information about how it is functioning. This activity was designed by Virginia Satir.
 
-# Overview
+## Overview
 
 A Temperature reading consists of five parts, each part offering group members an opportunity to express themselves within a specific theme:
 
@@ -33,33 +33,33 @@ The <em>New Information</em> theme is a time for group members to share importan
 
 The Temperature Reading ends on a positive, forward-looking note with <em>Hopes and Wishes</em>. Group members have an opportunity to express what they would like to have happen, both for themselves and for the group. Each person gains some additional insight into others, and may choose to support others in attaining their hopes and wishes.
 
-# Who is Involved
+## Who is Involved
 
   - Facilitator
   - Participants
 
-# Before Doing This
+## Before Doing This
 
-## Supplies
+### Supplies
 
   - Optional: The five phases of the Temperature Reading written on a flip chart or white board, positioned where participants can see
   - Optional: Flip chart, paper, or index cards for recording issues to be resolved later
 
-## Facilities
+### Facilities
 
   - Closed room, large enough for all participants to be comfortable
   - Room arranged comfortably, e.g., with chairs in a circle
 
-# Doing This
+## Doing This
 
-## Guidelines for the Facilitator
+### Guidelines for the Facilitator
 
   - Begin the Temperature Reading by describing the purpose. If this is the first Temperature Reading for the group, explain the different themes and give examples of each. Also, discuss the "Guidelines for Participants," below.
   - Start each part of the Temperature Reading by inviting participants to speak about the theme. For example, start Appreciations by asking, "Does anyone have an appreciation to offer?"
   - If there are no responses for a theme, wait quietly for a moment. Be patient. People may be unused to speaking about these themes, and may need some time before they feel ready to speak. If there are still no responses, you may wish to get things started by offering a response yourself.
   - During Complaints with Recommendations, if an issue cannot be resolved quickly, write down the issue to be dealt with later. Then, move on to the next issue.
 
-## Guidelines for Participants
+### Guidelines for Participants
 
 When giving Appreciations:
 
@@ -72,19 +72,19 @@ When giving Complaints with Recommendations:
 
   - Remember to offer a suggestion for improvement.
 
-# After Doing This
+## After Doing This
 
   - Follow up on any unresolved issues
 
-# Other Ideas
+## Other Ideas
 
   - You may wish to put a time limit on each of the themes, or on the whole Temperature Reading.
 
-# Related Activities
+## Related Activities
 
   - Communication Skills
 
-# References
+## References
 
 Satir, Virginia.
 <em>The New Peoplemaking</em> (pp 289-292).

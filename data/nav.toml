@@ -1,0 +1,11 @@
+[[link]]
+title = 'Home'
+url = '/'
+
+[[link]]
+title = 'Articles'
+url = '/articles/'
+
+[[link]]
+title = 'Blog'
+url = 'https://cwd.dhemery.com'

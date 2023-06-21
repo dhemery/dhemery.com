@@ -27,14 +27,14 @@ Perhaps you're living it right now.
 You're getting resistance.
 _Now_ what do you do?
 
-# Realities of Resistance
+## Realities of Resistance
 When I get resistance, my first step to resolving it is to remember the two realities of resistance. First is the Harsh Reality of Resistance: I cannot _make_ another person do _anything_. People always decide for themselves how they will respond to my proposals, my requests, and even my demands. What's more, no matter how brilliant my ideas, people always choose their responses based on their own point of view and not on mine.
 
 Fortunately, there is also a Hopeful Reality of Resistance. I can sometimes change a point of view
 &#8212;
 either my own or someone else's. Sometimes I can influence a person to accept my point of view and to do what I ask. Sometimes I learn something new, adopt the other person's point of view, and drop my request. Sometimes, as I work to understand the other person, the two of us end up at a third point of view, different from where either of us started, and we both change in ways we hadn't expected. In each case, the resistance has vanished.
 
-# Every Response is a Resource
+## Every Response is a Resource
 If you want to resolve resistance, you must build mutually compatible points of view with the people who are not doing what you ask. You might attempt this by redoubling your effort to persuade, by trying to explain your viewpoint so clearly, so brilliantly, and so convincingly that the other person is won over. Unfortunately, there are problems with this method. One is that it requires you to know what information the person would find clear, brilliant, and convincing. Another is that people are not always open to being convinced.
 
 A more reliable method
@@ -61,7 +61,7 @@ Let's explore these factors to see how they give you clues to what people are th
 If you can interpret these clues, they can give you new options for resolving resistance.
 You just might end up with an outcome even better than what you were asking for.
 
-# The First Factor: Expectations
+## The First Factor: Expectations
 Different people will respond in different ways to your request.
 What seems like an obvious, wonderful idea to Richard will seem irrelevant to Dick, and downright dangerous to Ritchie.
 Why such different responses to a single request?
@@ -85,7 +85,7 @@ If you want someone to change behavior, you must either adjust your request so t
 In order to do either of these things, you must understand the person's unique expectations about your request.
 Let's look at how people's responses give you clues about their expectations.
 
-## Expectations about Ability
+### Expectations about Ability
 
 My friend Louise invited me many times to go sport kayaking, navigating white water rapids in a one-person rubber raft called a "duckie." For years, I declined, fearing that I did not have the skill I would need.
 One day Louise told me about a company that offered a sport kayaking package for beginners that included training, life vests, and three expert guides to accompany a group of beginners down an exciting but relatively mild river.
@@ -118,7 +118,7 @@ And again, try to make the environment safe, so that mistakes are not too costly
 In fact, this can be a good idea whenever you are asking people to
 try something new, whether they are reluctant or eager.
 
-## Expectations about Results
+### Expectations about Results
 
 Suppose you have just recommended that your test group use GooeyBot 2000 to test your program's user interface.
 Ruth says, "That will never work here." Seth says, "That would cost too much money." Troy says, "We tried that at my last company, and it didn't work." These responses tell you about what results Ruth, Seth, and Troy expect.
@@ -172,7 +172,7 @@ Hold everything and try to think of three things that might go wrong.
 If you can't think of at least three things, ask a few other people to suggest ideas.
 They won't have any trouble.
 
-## Expectations about Value
+### Expectations about Value
 
 Even if people believe they would be able to do what you ask, and even if they expect the same results that you expect, they _still_ may refuse.
 People will do what you ask only if they _want_ the results they expect.
@@ -240,7 +240,7 @@ limit,
 or compensate for the loss,
 and it is crucial when none of those alternatives is possible.
 
-# The Second Factor: Communication
+## The Second Factor: Communication
 The second key factor that affects how people respond to your requests is communication.
 As we saw in the previous section,
 people will sometimes respond in ways that directly and clearly communicate about their expectations.
@@ -312,7 +312,7 @@ The test of whether you have understood Betty and Albert is to tell them what in
 and ask if you understood correctly.
 Then listen to what they say.
 
-# The Third Factor: Your Relationship
+## The Third Factor: Your Relationship
 The third key factor is relationships.
 Every time you talk with someone,
 your relationship enters the conversation before your words do.
@@ -379,7 +379,7 @@ consider your requests,
 and talk with you about their expectations,
 you will have a much greater chance of negotiating a result that satisfies you.
 
-# The Fourth Factor: The Environment
+## The Fourth Factor: The Environment
 In some cases, people are willing, and even eager, to do what you ask, but they feel constrained or discouraged by circumstances around them, in or out of the organization.
 These external circumstances form our fourth key factor, the environment in which people choose how to respond to your requests.
 
@@ -423,7 +423,7 @@ First, consider the possibility that Karen is being sincere and act accordingly.
 If you can't bring yourself to believe that, then either Karen is not telling you her real reasons or you are not able to trust what she says even when she is being sincere.
 Either way, you have a relationship issue to resolve.
 
-# How to Eliminate Resistance
+## How to Eliminate Resistance
 I have discovered a foolproof way to eliminate resistance.
 All I have to do is to stop giving advice, stop making proposals, and stop asking people to do things.
 If I never ask people to do anything, they have nothing to resist!
@@ -445,10 +445,10 @@ When I think of people's responses not as resistance, but as information, I am b
 This approach works well for me.
 I believe it will work for you, too.
 
-# Acknowledgments
+## Acknowledgments
 I would like to thank Esther Derby, Dwayne Phillips, and Naomi Karten for their feedback and encouragement, and Lucy Lockwood for suggesting the title "Resistance as a Resource."
 
-# References
+## References
 <a name="bridges">Bridges, William</a>.
 _Managing Transitions._
 Reading, Mass: Addison-Wesley, 1991.

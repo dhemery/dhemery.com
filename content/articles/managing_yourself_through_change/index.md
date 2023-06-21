@@ -1,8 +1,9 @@
 ---
 title: Managing Yourself Through Change
+date: 2021
 ---
 
-# Introduction
+## Introduction
 
 Major change is difficult.
 Unexpected change is even more difficult.
@@ -15,7 +16,7 @@ Next I look at why each stage happens,
 why we respond the way we do, and how we move from one stage to the next.
 Then I offer some ideas about how to respond more effectively in each stage.
 
-# The Satir Change Model
+## The Satir Change Model
 
 Virginia Satir,
 a pioneer of family therapy,
@@ -36,7 +37,7 @@ vary throughout the change process.
 
 <a href="change.png"><img width="100%" src="change.png" /></a>
 
-## The Late Status Quo
+### The Late Status Quo
 
 The Late Status Quo stage feels familiar.
 Every day is more or less like the day before,
@@ -63,7 +64,7 @@ the Late Status Quo has an overall sense of familiarity.
     the changes were moderate,
     and were happening as we had planned.
 
-## The Foreign Element
+### The Foreign Element
 
 Something happens
 that shatters the familiarity of the Late Status Quo.
@@ -86,7 +87,7 @@ from outside of your expectations and assumptions.
     where he announced that our plant was closing.
     We no longer had jobs.
 
-## Chaos
+### Chaos
 
 The Foreign Element throws you into Chaos.
 In the Chaos stage,
@@ -140,7 +141,7 @@ though you may experience the urgency and stress more than the thrill of creativ
     In addition to having zero income,
     I also had little marketability.
 
-## The Transforming Idea
+### The Transforming Idea
 
 You create lots of new ideas when you are in Chaos.
 Eventually,
@@ -166,7 +167,7 @@ You begin to see a way out of the Chaos.
     In the meantime,
     we could live reasonably comfortably on her income for a few years.
 
-## Practice and Integration
+### Practice and Integration
 
 In the Practice and Integration stage,
 you start to try your new idea or new behavior.
@@ -185,7 +186,7 @@ often to levels higher than before the Foreign Element.
     I got excellent grades,
     and graduated with highest honors.
 
-## The New Status Quo
+### The New Status Quo
 
 In the New Status Quo stage,
 your performance begins to level off as you master your new skills.
@@ -214,7 +215,7 @@ And the change cycle begins again.
     where I continued improving my software development skills,
     and in time developed a career as a project manager.
 
-## Additional Thoughts about the Satir Change Model
+### Additional Thoughts about the Satir Change Model
 
 You may be in a different stage with respect to different changes.
 You may be in a Late Status Quo in your family,
@@ -226,13 +227,13 @@ to wait until you are ready for them.
 A surprise may arrive while you are in the middle of Chaos,
 or while you are practicing the Transforming Idea from an earlier change.
 
-# The Reasons for Each Stage
+## The Reasons for Each Stage
 
 Each stage of the Satir Change Model has a purpose.
 There are sound reasons for each stage,
 even when our responses seem painful and confusing.
 
-## Assumptions and the Late Status Quo
+### Assumptions and the Late Status Quo
 
 The change process starts with the Late Status Quo.
 It is the assumptions we make about the world
@@ -267,7 +268,7 @@ Our assumptions allow us to focus our time and energy where they are most needed
 And when our assumptions are incomplete or incorrect,
 they set us up for Chaos.
 
-## Chaos, Stress, and Creativity
+### Chaos, Stress, and Creativity
 
 Chaos is stressful.
 The stress is our response to a Foreign Element, an indication that one of our significant assumptions differs from reality.
@@ -295,7 +296,7 @@ But we don't know which one until we try, so we try many different things.
 
 The purpose of Chaos is to generate a Transforming Idea.
 
-## Learning During Practice and Integration
+### Learning During Practice and Integration
 
 Once we have a Transforming Idea, we start on the road out of Chaos and toward higher performance.
 Unfortunately, we do not immediately become highly effective.
@@ -311,7 +312,7 @@ We practice, and we learn from the results.
 Because we are learning, we sometimes make mistakes that set us back in the short term.
 Because we are learning, our performance generally increases over time.
 
-## New Assumptions and the New Status Quo
+### New Assumptions and the New Status Quo
 
 As our skill and knowledge grows, our need to continue practicing and integration diminishes.
 We get less and less payoff for our efforts to improve.
@@ -322,12 +323,12 @@ Because we have done real learning, our new assumptions leave us more effective 
 
 The purpose of the New Status Quo is to allow us to turn our attention toward other important areas of our lives.
 
-# Managing Yourself Through Change
+## Managing Yourself Through Change
 
 So far, I have described what happens inside us as we go through significant change, and why we respond the way we do.
 In this section, I present some possibilities for managing yourself effectively during each stage of change.
 
-## Managing Yourself Through a Late Status Quo
+### Managing Yourself Through a Late Status Quo
 
 The first rule is to stay healthy.
 When a Foreign Element comes, you will need all the capacity you can muster.
@@ -353,7 +354,7 @@ But remember, try not to take on anything enormous.
 Notice what changes make it harder for you to maintain the status quo.
 These little changes may give you information about an assumption that is no longer working.
 
-## Managing Yourself Through Chaos
+### Managing Yourself Through Chaos
 
 Again, your first priority is to stay healthy. Take care of yourself.
 
@@ -398,7 +399,7 @@ Mentor each other. Share ideas and experiences.
 
 Stay grounded in the present.
 
-## Managing Yourself Through Practice and Integration
+### Managing Yourself Through Practice and Integration
 
 Remember: This will not last.
 
@@ -436,7 +437,7 @@ You need the satisfaction of _completing_ a successful change now and then.
 
 Appreciate yourself for taking risks and for learning.
 
-## Managing Yourself Through a New Status Quo
+### Managing Yourself Through a New Status Quo
 
 Celebrate.
 Appreciate yourself for negotiating this stressful change and for your new level of performance.
@@ -449,12 +450,12 @@ You are prepared to take on the next challenge.
 
 Remember: This will not last.
 
-# Summary
+## Summary
 
 The Satir Change Model describes the stages we go through as we experience significant change.
 By understanding this model, and knowing what stage of change we are in, we can choose more effective responses, to turn unexpected change into an opportunity to learn and improve our performance.
 
-# References
+## References
 
 Neil Rackham.
 _SPIN Selling._

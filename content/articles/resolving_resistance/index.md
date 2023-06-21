@@ -2,7 +2,7 @@
 title: Resolving Resistance
 ---
 
-# An Example of Resistance Resolved
+## An Example of Resistance Resolved
 
 Susan, the Director of Human Resources at a large paper company,
 was leading a project to implement self-directed work teams in her organization.
@@ -51,7 +51,7 @@ When new people joined the organization,
 the mentors would help them to learn "how we work in teams around here."
 
 
-# Realities of Resistance
+## Realities of Resistance
 
 For someone to resist your request to change,
 conditions are necessary.
@@ -100,7 +100,7 @@ Whatever you learn, the information will give you new options for resolving the 
 As Susan discovered, you may end up with a resolution better than anything you had expected.
 
 
-# Resistance as a Resource
+## Resistance as a Resource
 
 Begin your search for understanding with the responses you have received.
 Each response, even a response that offers resistance,
@@ -125,7 +125,7 @@ I have identified four key factors:
 - Influences from the <strong>environment.</strong>
 
 
-# Resistance and Expectations
+## Resistance and Expectations
 
 Each person's response to a change is unique and personal,
 based on unique and personal expectations about the change.
@@ -149,7 +149,7 @@ Motivation for or against a change-or any behavior-is governed by three kinds of
 - Expectations about <strong>value</strong>. "Do I want those results?"
 
 
-## Expectations about Ability
+### Expectations about Ability
 
 Here are some of the reasons people have given me for not making a change that someone had requested of them:
 
@@ -208,7 +208,7 @@ make sure the environment is safe for experiment and play,
 so that mistakes are not too costly
 
 
-## Expectations about Results
+### Expectations about Results
 
 People will often tell you what results they expect, as in these common responses:
 
@@ -269,7 +269,7 @@ If there are aspects of your change about which you are uncertain, acknowledge t
 If you are completely certain about your change, try thinking of three things that might go wrong.
 If you can't think of at least three things, then you do not understand the change [<a href="#weinberg-1985">Weinberg 1985</a>, 81].
 
-## Expectations about Value
+### Expectations about Value
 
 Often, responses will tell you clearly what people value. For example:
 
@@ -308,12 +308,12 @@ There are several ways to cope with the losses people expect from a change:
 Ultimately, every response to a request is based on values. Even if I believe I will be unable to do what you ask, I might try it anyway if the potential losses are small, or the potential gains large. Even if I do not know what results to expect, I might try the change anyway if I can feel assured that I will not lose anything of great value. If you get resistance due to expectations about ability or results, consider trying some of the suggestions for coping with loss.
 
 
-# Resistance and Communication
+## Resistance and Communication
 
 In order to understand another person's expectations, you must communicate effectively. You must see and hear clearly, interpret the person's words and actions accurately, and also make sure you are being heard clearly and accurately.
 
 
-## Seeing and Hearing Clearly
+### Seeing and Hearing Clearly
 
 I once watched a man at an airport set off the alarm as he walked through the security scanner. A security guard led the man a few feet to a table, and scanned him with a wand, which beeped. With a heavy accent, the security guard said, "Teck out the change from your pokket." The man removed his change, and put it on the table.
 
@@ -328,7 +328,7 @@ A third pass of the wand, a third beep. The security guard said, "Teck off your 
 If you don't hear clearly what a person is saying, it is hard to get the meaning right. When you get a puzzling or troubling response, make sure you heard it correctly. Ask yourself The Data Question: "What did I see and hear?" [<a href="#weinberg-1993">Weinberg 1993</a>, 91]. Then ask whether what you heard is what the other person said. "Did you tell me to take off my pants?"
 
 
-## Interpreting Accurately
+### Interpreting Accurately
 
 Even when I hear correctly, I do not always get the meaning right. Perhaps I inherited this shortcoming. My grandparents never changed their clocks to Daylight Savings Time, because, they said, "We don't want to stay up until two o'clock in the morning."
 
@@ -352,14 +352,14 @@ Suppose you have asked Betty to institute a system of design reviews for her pro
 Repeat this cycle of listening, validating, and correcting until the other person agrees that you have heard and understood the message. Then ask, "Is there more that you want to say?" Repeat until the person feels fully heard and understood.
 
 
-## Being Understood
+### Being Understood
 
 If someone hears or interprets what you say incorrectly, they may respond in a way that puzzles you. Check to see what, exactly, the person is responding to. Ask, "I'm not sure what you heard me say. Can you repeat it for me?" Depending on what you hear, either confirm the person's interpretation, or send your message again, perhaps using different words.
 
 Repeat the cycle of listening, validating, speaking, and validating until you and the other person both agree that you have been fully heard and understood. Then, if appropriate, work to resolve the differences in your points of view.
 
 
-# Resistance and Your Relationship
+## Resistance and Your Relationship
 
 When you speak with someone, your relationship enters the conversation before your words do. Relationships affect the way you interpret people's words and behavior, and the way they interpret yours. In order to understand people's real expectations about a change, you must relate to them in a way that supports clear communication.
 
@@ -388,7 +388,7 @@ Further, in a healthy relationship, each of these elements is negotiated explici
 
 Hearing another person fully, as described in the previous section, often helps to create a relationship in which the person is more willing to hear you.
 
-# Resistance and the Environment
+## Resistance and the Environment
 
 A change will succeed only if the environment supports it fully. The environment must provide:
 
@@ -418,11 +418,11 @@ The most common expression of resistance is "We don't have time for that." This 
 
 If you can not change the environment, you may have to adjust your change so that it fits into the limits of support that the environment offers.
 
-# Summary
+## Summary
 
 People resist change based on their unique, personal expectations. People's responses to your requests carry information about people's expectations. If you create a relationship that supports clean communication, and if you communicate effectively, you can often resolve resistance, and turn it into support for effective, lasting change.
 
-# References
+## References
 
 [<a name="elgin-1995">Elgin 1995</a>] Suzette Haden Elgin. <em>BusinessSpeak: Using the Gentle Art of Verbal Persuasion to Get What You Want at Work</em>. New York: McGraw-Hill: 1995.
 

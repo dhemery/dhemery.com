@@ -2,9 +2,9 @@
 title: Quick Takes on Resistance
 ---
 
-# Chancing and Staying the Same
+## Chancing and Staying the Same
 
-## Why People Change
+### Why People Change
 
 The reason people change is to preserve something even more important.
 [<a href="#sdfootnote1sym">1</a>]
@@ -19,7 +19,7 @@ People are more likely to change when they are involved in deciding how to chang
 
 People change for <em>their</em> reasons, not <em>yours</em>.
 
-## Why People Don't Change
+### Why People Don't Change
 
 It's not <em>change</em> that people resist, it's <em>loss</em>.
 [<a href="#sdfootnote2sym">2</a>]
@@ -43,7 +43,7 @@ People don't like to be surprised. You're probably thinking, "I already knew tha
 
 Your change will create uncertainty for people, and therefore risk.
 
-## Your Experience of Change
+### Your Experience of Change
 
 Think of some times someone asked you to change, and you didn't.
 What led you not to change?
@@ -56,7 +56,7 @@ What can you learn from this about how others may be responding to your ideas?
 
 What increases <em>your</em> resistance? What reduces it?
 
-## Implications for Change Agents
+### Implications for Change Agents
 
 Whoever wants something from an interaction assumes responsibility for creating the environment which produces success. [<a href="#sdfootnote3sym">3</a>]
 
@@ -66,9 +66,9 @@ Be willing to change yourself.
 
 The Broccoli Principle: It doesn't matter how healthy it is if they won't eat it.
 
-# Preparing
+## Preparing
 
-## Preparing the Relationship
+### Preparing the Relationship
 
 Your first priority is to create a positive relationship with the people you are asking to change.
 
@@ -88,7 +88,7 @@ Do you like the people you are asking to change? Do you respect them? Do you tru
 
 Do the people you are asking to change like you? Do they respect you? Do they trust you?
 
-## Preparing Your Change
+### Preparing Your Change
 
 Respect the status quo.
 It works, at least for some people, to some extent, in some ways.
@@ -109,7 +109,7 @@ Involve people in designing the change:
   - Those who have significant, relevant information.
   - Those who have relevant authority.
 
-## Preparing Yourself
+### Preparing Yourself
 
 See your proposal as a possibility, not a necessity.
 
@@ -120,7 +120,7 @@ How important is this change to you? What makes it so important to you? How migh
 Don't try harder. Try softer.
 [<a href="#sdfootnote9sym">9</a>]
 
-## Preparing the Environment
+### Preparing the Environment
 
 Create an environment where people want to change, and where it is possible to change. [<a href="#sdfootnote10sym">10</a>]
 
@@ -134,7 +134,7 @@ Make sure the environment protects people against:
 
 Stay in touch with the environment in which the change will be made.
 
-## Anticipating the Response
+### Anticipating the Response
 
 Under what circumstance can you expect resistance? Any time you propose a change.
 
@@ -156,15 +156,15 @@ Organizational change happens one person at a time.
 
 Everything that could possibly allow continuing the status quo will happen. [<a href="#sdfootnote11sym">11</a>]
 
-# The Response
+## The Response
 
-## Encouraging the Response
+### Encouraging the Response
 
 Make sure it is safe for people to express their disagreements and concerns.
 
 Encourage people to express their disagreement and concerns early.
 
-## Examining Your Model of Resistance
+### Examining Your Model of Resistance
 
 Your internal model of "resistance" is the most important factor influencing how much resistance you get.
 
@@ -184,7 +184,7 @@ How do you respond internally to other people's resistance? How do you respond e
 
 Which of the ideas in this paper do you disagree with? What is your internal response? What can you learn from this about how others may be responding to your ideas?
 
-## Reframing Resistance
+### Reframing Resistance
 
 Resistance is the external word. The internal word is safety. [<a href="#sdfootnote12sym">12</a>]
 
@@ -214,7 +214,7 @@ It tells you about what needs to happen for you to get the results you want.
 
 Would you want me to overcome <em>your</em> resistance?
 
-## From Resistance to Curiosity
+### From Resistance to Curiosity
 
 When you encounter resistance, in order to make progress, you must work to understand the other person's point of view.
 
@@ -222,19 +222,19 @@ Resistance is a signal to become curious. Start by thinking, "Hmmm. Isn't that i
 
 Seek first to understand. [<a href="#sdfootnote13sym">13</a>]
 
-# Getting Curious
+## Getting Curious
 
-## Sources of Information
+### Sources of Information
 
 The best source of information about a person's response is the other person.
 
 A second best source of information is your own experience and imagination, <em>but make sure to check it out.</em>
 
-## Intake
+### Intake
 
 Describe the response in terms of the five senses. What did you see, hear, smell, feel, and taste?
 
-## Meaning
+### Meaning
 
 What exactly is the person responding to?
 
@@ -274,13 +274,13 @@ What is ambiguous in the person's response? How can you get more specific inform
 
 Notice what <em>doesn't</em> get resisted. [<a href="#sdfootnote16sym">16</a>]
 
-## Significance
+### Significance
 
 The size of a person's response tells you about the significance they place in the change.
 
 Don't take it personally.
 
-## Judging Other People's Behavior
+### Judging Other People's Behavior
 
 Don't make someone have to be wrong in order to accept your change.
 
@@ -290,7 +290,7 @@ Every behavior has a positive intention.
 
 No matter how it looks, everyone is trying to be helpful. [<a href="#sdfootnote18sym">18</a>]
 
-# References
+## References
 
 [<a name="sdfootnote1sym">1</a>] Gerald M. Weinberg. Personal communication.
 

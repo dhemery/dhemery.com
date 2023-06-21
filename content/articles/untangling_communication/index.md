@@ -24,7 +24,7 @@ strained working relationships,
 angry customers,
 and lots of unexpected work as we scramble to repair the damage.
 
-# How Communication Works
+## How Communication Works
 When my communications go wrong,
 I get back on track using a model called _The Ingredients of an Interaction_ (see Figure 1).
 This model,
@@ -57,7 +57,7 @@ and a man sitting beside me touched my arm and asked,
 I looked at my watch and said,
 "It's 1:15."
 
-## The First Step: Intake
+### The First Step: Intake
 My internal communication process begins with _Intake_.
 Through my five senses,
 I become aware of the messages that some person is sending to me
@@ -91,7 +91,7 @@ flashing blue light in my rearview mirror.
     amid all of the conversations and noise in the room.
     "Do you have a watch?"
 
-## The Second Step: Meaning
+### The Second Step: Meaning
 My next step is to interpret the message.
 I give the message a _meaning_,
 based partly on information present in the message itself,
@@ -133,7 +133,7 @@ my interpretation will be close to what the sender intended.
     I then interpreted the man's message to mean,
     "He wants me to tell him the time."
 
-## The Third Step: Significance
+### The Third Step: Significance
 
 Now that I have interpreted the message,
 I next assign it a _significance_.
@@ -169,7 +169,7 @@ the same message will have far greater significance.
     the corresponding feeling I created was a mild,
     pleasant desire to help.
 
-## The Fourth Step: Acceptance
+### The Fourth Step: Acceptance
 
 Next comes the _Acceptance_ step.
 I decide,
@@ -193,7 +193,7 @@ but not in a software project meeting.
     it was okay for me to feel the mild,
     pleasant desire to help the watchless man.
 
-## The Fifth Step: Response
+### The Fifth Step: Response
 
 Based on the message I've received,
 the meaning I've made,
@@ -235,13 +235,9 @@ as in our "what time is it" example:
     "It's 1:15."
 
 The simple interaction took less than three seconds,
-and took place
-&#8212;
-as most interactions do
-&#8212;
-without my having even been aware of my internal process.
+and took place---as most interactions do--- without my having even been aware of my internal process.
 
-# Untangling Interactions
+## Untangling Interactions
 
 Of course not all our information exchanges are as simple as asking the time of day;
 most day-to-day communications hold the potential for multiple snarls and tangles.
@@ -262,7 +258,7 @@ And when I understand well,
 I am better able to notice when other people misinterpret my messages,
 and to correct the misunderstanding.
 
-## Errors in Intake
+### Errors in Intake
 Each step depends on earlier steps.
 If we get the earlier steps wrong,
 we are likely to compound the error in later steps,
@@ -309,7 +305,7 @@ especially an important conversation
 &#8212;
 check your Intake.
 
-## Errors in Meaning
+### Errors in Meaning
 
 When we talk we omit important information,
 and we rely on our listeners to fill in this information from their own experience.
@@ -386,7 +382,7 @@ test them.
 The simplest way is to tell the sender what meaning you made,
 and ask whether you got it right: "Do you mean that don't want us to evaluate the system?"
 
-## Errors in Significance
+### Errors in Significance
 Clarifying the meaning of the message may untangle your communication.
 Sometimes that's not enough,
 so the next step is to check the significance.
@@ -464,7 +460,7 @@ Or they may help you to see more clearly how your past experience gives you insi
 Either way,
 you will often learn something that will give you an idea about how to get your communications back on track.
 
-## Errors in Acceptance
+### Errors in Acceptance
 The idea that some feeling is not okay _always_ comes from the past.
 If I can't accept what I am feeling,
 that is a sure sign that I've got the current conversation tangled up with the past,
@@ -521,7 +517,7 @@ I've usually found the heart of what I really feel.
 If I can accept what I am feeling,
 I can deal with it appropriately.
 
-## Errors in Response
+### Errors in Response
 Rules for commenting are rooted in the past.
 As in the Meaning,
 Significance,
@@ -559,7 +555,7 @@ such as
 or "I'm the only one who has a problem with this proposal."
 These recurring reasons offer clues about your rules for commenting.
 
-# Untangling Conversations
+## Untangling Conversations
 Communication typically takes place in the context of a conversation.
 The history of a conversation,
 the messages that have been sent and received so far,
@@ -647,7 +643,7 @@ stop and identify what each conversation is about.
 Then go ahead and have the two conversations,
 but have them one after another instead of at the same time.
 
-# Putting the Tools into Practice
+## Putting the Tools into Practice
 It can be difficult to notice communication errors as they happen
 &#8212;
 especially in the middle of a stressful conversation,
