@@ -1,13 +1,17 @@
-baseURL = "https://dhemery.com"
-languageCode = "en-us"
 title = "Dale H. Emery"
+baseURL = "https://dhemery.com"
 copyright = "© 2003–2023 Dale H. Emery"
-disableKinds = [
-    "taxonomy",
-    "term",
-] 
+
+languageCode = "en-us"
 
 theme = "Dale"
+
+[taxonomies]
+tag = 'tags'
+
+[markup.goldmark.highlight]
+codeFences = true
+style = 'dracula'
 
 [markup.goldmark.renderer]
 unsafe = true

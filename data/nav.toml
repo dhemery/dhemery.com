@@ -8,4 +8,8 @@ url = '/articles/'
 
 [[link]]
 title = 'Blog'
-url = 'https://cwd.dhemery.com'
+url = '/posts/'
+
+[[link]]
+title = 'Tags'
+url = '/tags/'
