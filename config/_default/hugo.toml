@@ -1,0 +1,6 @@
+title = "Dale H. Emery"
+baseURL = "https://dhemery.com"
+copyright = "© 2003–2023 Dale H. Emery"
+languageCode = "en-us"
+disableKinds = ['RSS']
+

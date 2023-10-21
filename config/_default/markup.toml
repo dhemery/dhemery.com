@@ -1,0 +1,6 @@
+[goldmark.highlight]
+codeFences = true
+style = 'dracula'
+
+[goldmark.renderer]
+unsafe = true

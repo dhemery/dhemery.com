@@ -1,10 +1,12 @@
 ---
+title: What JUnit Rules are Good For
 date: "2011-01-04T14:20:41Z"
 tags:
 - coding
 - unit testing
 - JUnit
-title: What JUnit Rules are Good For
+css:
+    page: ['/css/darcula.css']
 ---
 
 In [my previous post](/posts/2010/12/junit-rules/)
@@ -97,7 +99,7 @@ With Kent's helpful advice and examples in hand,
 I was able to quickly write a rule
 that did exactly what my client and I needed:
 
-~~~ java
+```java
 public class ExceptionWrapperRule implements MethodRule {
   public Statement apply(final Statement base,
                          FrameworkMethod method,
@@ -113,7 +115,7 @@ public class ExceptionWrapperRule implements MethodRule {
     };
   }
 }
-~~~
+```
 
 In our test code,
 at the point where we establish the Selenium session,

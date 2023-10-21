@@ -1,0 +1,5 @@
+[[imports]]
+path = 'github.com/dhemery/dale-site-theme'
+
+[[imports]]
+path = 'github.com/dhemery/dale-blog-theme'
